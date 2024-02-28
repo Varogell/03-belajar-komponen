@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Profile from "../components/profile";
+import { Gallery } from "@/components/gallery";
 
 function Home() {
   return (
@@ -7,7 +8,7 @@ function Home() {
       
       <h1>Ilmuwan yang luar biasa</h1>
       <div>
-        <Profile />
+        <Gallery />
       </div>
     </div>
   );
