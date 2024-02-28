@@ -81,13 +81,26 @@ Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tam
 
 Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 
-### Jawaban Soal 5
+### Jawaban Soal 6
 
 ![Screenshot](asset/06.png)
 
 pembenaran kode seperti dibawah ini
 
 ![Screenshot](asset/6.png)
+
+### Soal 7
+
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+### Jawaban Soal 7
+
+![Screenshot](asset/07.png)
+
 
 
 
