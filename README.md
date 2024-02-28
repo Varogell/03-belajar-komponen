@@ -49,7 +49,7 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 
 untuk tampilan tidak ada perubahan hanya kodenya yang berubah 
 
-### Soal 2
+### Soal 3
 
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
 
@@ -58,3 +58,11 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 ![Screenshot](asset/03.png)
 
 ada beberapa error karena ada suatu sintaks yang salah 
+
+### Soal 4
+
+Kode di atas masih terdapat error, silakan diperbaiki
+
+### Jawaban Soal 4
+
+![Screenshot](asset/04.png)
