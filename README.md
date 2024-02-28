@@ -66,3 +66,13 @@ Kode di atas masih terdapat error, silakan diperbaiki
 ### Jawaban Soal 4
 
 ![Screenshot](asset/04.png)
+
+### Soal 5
+
+Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person.
+
+Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini?
+
+### Jawaban Soal 5
+
+![Screenshot](asset/05.png)

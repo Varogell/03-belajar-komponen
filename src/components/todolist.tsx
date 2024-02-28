@@ -9,7 +9,7 @@ const person = {
   export default function TodoList() {
     return (
       <div style={{ backgroundColor: person.theme.backgroundColor, color: person.theme.color }}>
-        <h1>{person.name}&pos;s Todos</h1>
+        <h1>{person.name}'s Todos</h1>
         <img
           className="avatar"
           src="https://i.imgur.com/7vQD0fPs.jpg"

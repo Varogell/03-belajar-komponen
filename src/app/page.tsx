@@ -2,13 +2,16 @@ import Image from 'next/image'
 import Profile from "../components/profile";
 import { Gallery } from "@/components/gallery";
 import Bio from '@/components/bio';
+import TodoList from '@/components/todolist';
 function Home() {
   return (
-    <div>
-      <div>
-        <Bio/>
-      </div>
-    </div>
+    <section>
+    <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
+    <hr />
+    <Gallery />
+    <hr />
+    <TodoList />
+  </section>
   );
 }
 
