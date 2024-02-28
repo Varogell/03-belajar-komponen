@@ -76,3 +76,18 @@ Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tam
 ### Jawaban Soal 5
 
 ![Screenshot](asset/05.png)
+
+### Soal 6
+
+Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+### Jawaban Soal 5
+
+![Screenshot](asset/06.png)
+
+pembenaran kode seperti dibawah ini
+
+![Screenshot](asset/6.png)
+
+
+
