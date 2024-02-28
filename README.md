@@ -48,3 +48,13 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 ![Screenshot](asset/02.png)
 
 untuk tampilan tidak ada perubahan hanya kodenya yang berubah 
+
+### Soal 2
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
+
+### Jawaban Soal 3
+
+![Screenshot](asset/03.png)
+
+ada beberapa error karena ada suatu sintaks yang salah 
