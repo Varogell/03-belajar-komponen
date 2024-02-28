@@ -101,6 +101,12 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 
 ![Screenshot](asset/07.png)
 
+### Soal 8
 
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+### Jawaban Soal 8
+
+![Screenshot](asset/08.png)
 
 

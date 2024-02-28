@@ -4,11 +4,12 @@ import { Gallery } from "@/components/gallery";
 import Bio from '@/components/bio';
 import TodoList from '@/components/todolist';
 import MyGallery from '@/components/mygallery';
+import MyProfile from '@/components/myprofile';
 function Home() {
   return (
     <main className=''>
    <div>
-    <MyGallery/>
+    <MyProfile/>
    </div>
    </main>
   );
